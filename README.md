@@ -85,4 +85,3 @@ url: *test@example.com*
 
 
 Generated with [AC's cookiecutter template](https://gl.atomcream.com/boilerplates/templates/django-api-template) version 0.0.1
-# VDrive
