@@ -23,7 +23,7 @@ Go to https://uagit.akvelon.net/python/vdrive and copy ssh for making a clone of
 
 Go to cmd, type command that will clone the project and create a new folder, for example "project"
  ```
- $ git clone ssh://git@uagit.akvelon.net:2015/python/vdrive.git project
+ $ git clone git@github.com:VashStampede/VDrive.git project
 ```
 Go to the dir with the project
 ```
